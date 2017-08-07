@@ -1,5 +1,5 @@
 # corrupcao_captura
 
-Neste repo estão concentrados os scripts de captura, assim como de sua automação e manutenção nos servidores.
+This repo will contain scripts for data scrapping, as well as its automation and server management routines.
 
-No momento, o Jupyter Notebook concentra a análise exploratória inicial, que se desdobrará em diferetes rotinas.
+As for now, a Jupyter Notebook is being used for the initial exploratory analysis of API's and webpages.
