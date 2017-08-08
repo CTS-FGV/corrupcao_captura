@@ -1,6 +1,6 @@
-#! / Bin / bash
+#!/bin/bash
 
-cd [path_to_folder]
+cd /corrupcao_captura/
 git add.
 git commit -m "auto_commit"
 git push
